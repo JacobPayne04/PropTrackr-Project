@@ -36,4 +36,3 @@ Execute npm start to launch the application locally.
 
 
 
-![image for my read me](https://github.com/JacobPayne04/PropTrackr-Project/blob/main/Screenshot%202024-01-18%20171123.png) - edit/delete
