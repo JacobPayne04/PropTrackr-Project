@@ -1,0 +1,23 @@
+@charset "ISO-8859-1";
+* {
+	margin: 0;
+}
+.navbar {
+	height: 30%;
+	width: 100%;
+	padding: 10px;
+}
+.logo{
+	width: 100px;
+	height: 100px;
+	position: absolute;
+	padding: 20px;
+	border-radius: 40px;
+	margin-left: 84px;
+	
+
+	
+}
+.create{
+	margin-left: 230px;
+}

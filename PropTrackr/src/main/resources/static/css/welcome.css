@@ -1,0 +1,65 @@
+@charset "ISO-8859-1";
+
+* {
+	margin: 0;
+}
+
+.navbar {
+	height: 30%;
+	width: 100%;
+	padding: 10px;
+}
+
+.rental-container {
+	margin-top: 30px;
+	display: inline-block;
+	margin-right: 30px;
+	padding: 40px;
+	/* Adjust as needed */
+}
+
+/* Individual rental box styles */
+.rental-box {
+
+	/* Light purple color */
+	border: 3px solid #d1c9ff;
+	/* Border color */
+	border-radius: 8px;
+	box-shadow: 0 4px 8px #d1c9ff;
+	/* Shadow glow */
+	padding: 15px;
+	width: 300px;
+	height: 300px;
+	/* Adjust as needed */
+}
+.logo{
+	width: 100px;
+	height: 100px;
+	position: absolute;
+	padding: 20px;
+	border-radius: 40px;
+	margin-left: 84px;
+	
+
+	
+}
+
+footer {
+	position: relative;
+	color: #fff;
+	text-align: center;
+	padding: 10px;
+	bottom: 0;
+	width: 100%;
+	display: flex;
+	margin-top: 300px;
+	justify-content: space-evenly;
+}
+.navbar-brand{
+
+}
+
+h1{
+	margin-top: 5px;
+}
+
